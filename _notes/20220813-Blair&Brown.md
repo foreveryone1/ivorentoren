@@ -1,7 +1,6 @@
 ---
 title: Blair & Brown
 tags: [Politiek,UK,VK,Blair]
-toc: true
 state: publish
 ---
 
