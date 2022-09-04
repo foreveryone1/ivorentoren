@@ -13,6 +13,7 @@ layout: stylesheet
 @import "/assets/css/toc_styling.css";
 @import "/assets/css/imagecaption_styling.css";
 @import "/assets/css/traitlist.css";
+@import "/assets/css/imagezoom.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html {
@@ -191,6 +192,8 @@ blockquote:before {
 
 blockquote {
     padding: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 cite {
@@ -202,6 +205,10 @@ blockquote p {
     font-family: inherit;
     font-size: inherit;
     padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
     background-color: #EEE8D5;
     border-radius: 5px;
 }
@@ -1434,7 +1441,3 @@ width: 25%;
  }
 }
 
-blockquote + blockquote {
-    padding-top: 0px;
-    margin-top: 0px;
-}
