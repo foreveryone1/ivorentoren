@@ -8,7 +8,7 @@ state: publish
 
 Terugkijken op de New Labour-jaren voelt voor mij aan als een blik op mijn jeugd. Toen Ketnet amper bestond stemden mijn zus en ik in de late jaren 90 vaker dan niet af op de BBC waarop kleurrijke kleuter- en kinderprogramma’s vanuit Londen onze netvliezen bestraalden. Terwijl mijn moeder een yuppiecarriere bij het urneoliberale McKinsey nastreefde en mijn vader nog een alternatieve leerkracht op het Lyceum was, vervulden de Teletubbies en Come Outside de huiskamer nog met tomeloos optimisme. Het nieuws werd door mijn ouders op drie kanalen gevolgd: VRT, BBC en CNN. Naast Stevaert en Verhofstadt, werden Blair, Brown, Clinton en Bush meer dan tv-personages, ze waren alomtegenwoordig, bijna meubelstukken –  tijdsgebonden kapstokken. Nog steeds deel ik mijn jeugdjaren eerder in naar wie er op dat moment president was. Het was een tijd waarin televisie de waarheid dicteerde aan de bevolking. Maar dit voelde niet opgedrongen aan, eerder als een vanzelfsprekende autoriteit die onze machthebbers presenteerden als vaderlijke orakels. Dit was voor mij de wereld van Blair & Brown en ondanks de talloze intriges tussen Mandelson en Campbell schemerde doorheen deze reeks een zweem van nostalgie: “things can only get better”. 
 
-[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gi5j7jjhm4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>] 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gi5j7jjhm4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hoewel ik de kritiek op de Derde Weg nog steeds onderschrijf, heb ik tot op de dag van vandaag moeite met te verwoorden wat mijn probleem ermee precies is. (Misschien is dit hoe het voelt om op te groeien met een religieuze vanzelfsprekendheid?)  Mijn getormenteerde relatie met New Labour kwam weer bovendrijven bij het kijken van Blair & Brown, maar gaf me ook een inzage met de dualiteit ervan, meebepaald door de relfectie van de tandem Tony Blair en Gordon Brown.
 
@@ -35,4 +35,4 @@ En dan is er uiteraard Irak. Hoewel een Atlantische inbedding een kwarteeuw gele
 In de eerste aflevering gaf Tony Blair nog aan dat hij uit de geschiedenis van Labour concludeerde dat ze vastgeroest was in een ouderwets collectivisme terwijl de wereld veranderd was. Misschien is de tijd aangebroken om dezelfde conclusie te trekken uit de geschiedenis van New Labour.
 
 
-[https://youtu.be/ANirM3s2JpQ](link naar docuserie op youtube)
+[link naar docuserie op youtube](https://youtu.be/ANirM3s2JpQ)
