@@ -1,9 +1,8 @@
 ---
 title: American atonement
 state: publish
-tags: 
+tags: politiek, economie
 toc: true
-
 
 ---
 ![image](https://user-images.githubusercontent.com/84398782/235358779-fe24f1a0-829e-44d6-a31f-9fc5639c7219.png)
