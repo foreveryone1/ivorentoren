@@ -1,7 +1,7 @@
 ---
 title: American atonement
 state: publish
-tags: politiek, economie
+tags: politiek economie
 toc: false
 
 ---
