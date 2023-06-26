@@ -1,4 +1,9 @@
-**China’s Quest for High-Quality Infrastructure and Growth**
+---
+tags: politiek economie
+title: China’s Quest for High-Quality Infrastructure and Growth
+toc: true
+state: publish
+---
 
 ![](https://foreignpolicy.com/wp-content/uploads/2023/02/GettyImages-1244006543.jpg?w=800&h=533&quality=90)
 
@@ -6,7 +11,7 @@ A decade ago, President Xi Jinping announced the Belt and Road Initiative. Promi
 
 In this chapter, the main drivers and changing dynamics of the BRI are touched upon. Changing trends are forcing China to focus increasingly on quality, rather than quantity in its development policy. This is the case for China’s domestic industrial policies, as well as for its foreign investment policy through the BRI. 
 
-**History**
+# History
 
 Since the inception of the People’s Republic of China (PRC), infrastructure development has played a pivotal role in China’s domestic and foreign policy. Throughout the history of the PRC, infrastructure development has taken different proportions, shapes and roles. After a brief period of domestic reconstruction, the Chinese Communist Party (CCP) formulated its first Five Year plans (1953-57 and 1958-62). 
 
@@ -28,7 +33,7 @@ In parallel to this relative decline in annual GDP growth rates, the strong reli
 
 Underlying this rising debt-to-GDP ratio is a marked slowdown in growth in output per worker since the GFC. This trilemma – lower growth, higher corporate debt, and lower productivity – indicated that the PRC could not simply spend its way out of stagnation, but that it needed a new paradigm for growth.
 
-**BRI 1.0**
+# BRI 1.0
 
 This new paradigm for growth was partly offered by the announcement of the Belt & Road Initiative in 2013. Henceforth, China’s growth strategy would be more outward-looking.
 
@@ -50,7 +55,7 @@ The BRI took off with great speed, as over the first five years, the number of �
 
 Chinese industrial and financial players – facing high financial debt and industrial overcapacity, especially since the GFC – eagerly tapped into the externally faced growth-potential of BRI.24 They have since played a pivotal role within the BRI; Chinese SOEs have contracted about half of BRI projects by number and nearly three quarters by value. In this view, the domestic component should not be understated either. Chinese provinces too play a key role in the BRI. For example, local authorities conveniently leveraged the BRI narrative to revive faltering or previously deemed unsustainable infrastructure projects and locally owned SOEs on the home front, as was the case in Hubei and Hunan Province.
 
-**BRI 1.0 and Made in China 2025**
+## BRI 1.0 and Made in China 2025
 
 China’s outward-looking BRI cannot be seen separately from its domestic industrial policies and economic ambitions. 
 
@@ -63,7 +68,7 @@ The BRI expanded the market for Chinese high-end products used in transport and 
 
 As it became clear that the MIC2025 benchmarks would not be reached by 2025 and Chinese plans for tech dominance and self-sufficiency were increasingly met with American and European backlash, Chinese officials started to soften the MIC2025 discourse by 2018. Ever since this date, officials have either downplayed or ignored the plan wholeheartedly.
 
-**BRI 2.0**
+# BRI 2.0
 
 The initial years of the BRI were marked by low interest rates, declining energy prices, a China-friendly global trade environment and a still booming domestic Chinese economy. The Covid-19 pandemic, rising interest rates, intensified geopolitical tensions, elevated energy prices, and the Russian invasion of Ukraine have made the current environment much less auspicious. As a significant amount of BRI-projects have stalled, billions of dollars, mostly provided by Chinese policybanks, have turned into mountains of debt for low and middle income countries, with 42 nations currently having levels of public debt exposure to China in excess of 10% of GDP.
 
@@ -87,7 +92,7 @@ Also important to note is that BRI 2.0 has a considerably lower price tag. In 20
 
 From the side of emerging markets, which are primarily targeted by the BRI, infrastructure investment is, however, still seen as an important prerequisite for economic development. As the BRI evolves into a smaller-scale project around finding collaborative synergies, it remains to be seen whether BRI 2.0 can reverse the chronic dearth of infrastructure investments in these countries. 
 
-**BRI 2.0 and the Dual Circulation Strategy**
+## BRI 2.0 and the Dual Circulation Strategy
 
 While MIC2025 branding faded, the core economic ambitions of China remained unchanged: to move up supply chains and become increasingly self-reliant. The Party needed a new strategy, more sophisticated, feasible, and with a clear vision of the current state of globalisation. In April 2020, Xi Jinping launched the Dual Circulation Strategy (DCS). Similar to MIC2025, DCS emphasises indigenous innovation and self-reliance. It is an overarching plan for managing global integration, explicitly reorienting the Chinese growth model from exports and domestic investments towards innovation and domestic consumption.
 
@@ -107,7 +112,7 @@ When it comes to ensuring access to critical inputs by diversifying supply chain
 
 Facing these discrepancies and challenges, high party officials have been advocating a more mutually reinforcing relationship between the BRI and the DCS. Vice-Premier Han Zheng called for a better alignment between the BRI and the DCS “where domestic and overseas markets reinforce each other”. Without explicitly mentioning either the DCS or BRI, in March 2023, President Xi Jinping again pledged to speed up efforts for high-quality development and achieving self-reliance. Further in his speech, President Xi mentioned that “China should ultimately rely on scientific and technological innovation” for growth.
 
-**Conclusion**
+# Conclusion
 
 In trying to offset its internal economic discrepancies, China burst onto the scene with a massive plan for development, projecting its domestic growth model to the world. Less than a decade later, however, China came to the realisation that it was fighting the same demons abroad as it was at home from the onset: debt, overcapacity, low productivity, and setbacks due to low construction quality. 
 
