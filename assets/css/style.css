@@ -1016,7 +1016,7 @@ label.srs-toggle {
     grid-gap: 10px;
 }
 
-img[src*='#center'] {
+img[src*='#center'],img[alt*='#center'] {
     display: block;
     margin: auto;
 }
