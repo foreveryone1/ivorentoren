@@ -1,8 +1,11 @@
 ---
-title: Pizzadeeg
+title: The Water is up to Our Ears - the despair of individualism
 toc: true
 keuken: recept
 ---
+
+Baktijd oven: 10 à 15 minuten op maximum temperatuur (afhankelijk van je oven)
+Baktijd grill: 3 à 5 minuten op maximum temperatuur en een pizzasteen (afhankelijk van je gasgrill)
 
 Je kan dit pizzadeeg ofwel de dag voordien (of zelfs enkele dagen op voorhand) maken of de dag zelf. Beide methodes worden hieronder uitgeschreven.
 
