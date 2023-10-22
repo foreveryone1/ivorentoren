@@ -5,7 +5,7 @@ toc: true
 state: publish
 ---
 
-![https://c.files.bbci.co.uk/150C8/production/_131461268_gettyimages-1729825016-1.jpg]
+![](https://c.files.bbci.co.uk/150C8/production/_131461268_gettyimages-1729825016-1.jpg)
 
 Alleen maar lachende gezichten waren te bekennen aan de zijde van President Xi Jinping op het derde Belt & Road Forum dat deze week plaatsvond op 17 en 18 oktober te Beijing. Het is dan ook een speciale editie: de Chinese Nieuwe Zijderoute viert haar tinnen jubileum. Het was in 2013 dat President Xi in respectievelijk Kazakhstan en Indonesië het One Belt, One Road (OBOR) Initiatief onthulde (later kreeg de benaming Belt & Road Initiatief (BRI) de voorkeur). Aan de hand van narratieve allusies naar de Han Dynastie, Zheng He en kamelenkaravanen schoof President Xi een evenzeer modern als hoogmoedig infrastructuurproject naar voren waarin hogesnelheidstreininfrastructuur, snelwegen, havens, luchthavens en economische zones zouden worden ontwikkeld om Eurazië economisch te integreren. Later vergrootte het bereik van BRI naar de hele wereld, van Kenya en Ecuador, tot in de Solomoneilanden: Belt & Road werd synoniem voor globalisering met Chinese karakteristieken. 
 
