@@ -1,7 +1,7 @@
 ---
 title: Defusing the polycrisis
 state: publish
-tags: 
+tags: [politiek,economie,china]
 toc: true
 ---
 
