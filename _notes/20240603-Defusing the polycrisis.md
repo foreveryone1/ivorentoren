@@ -129,3 +129,6 @@ You might have noticed that I talked suspiciously little about actual trade poli
 
 The major issue we have with addressing the challenges we are facing today is that there is no blueprint, precedent, organisation or doctrine – not even another country - we can fully rely on. We need to build the plane while flying, setting our own boundaries and definitions on dependencies, economic statecraft, and economic security all in the fog of economic war.
 
+
+Victor De Decker
+
