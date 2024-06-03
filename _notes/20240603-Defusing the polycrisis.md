@@ -5,6 +5,8 @@ tags: [politiek,economie,china]
 toc: true
 ---
 
+**Deze tekst is een speech die ik geleverd heb aan de Handelseconomen van de lidstaten van de EU op uitnodiging van de Belgische FOD Economie binnen het kader van het Belgische voorzitterschap van de EU.**
+
 First of all, I would like to thank the Federal Public Service Economy for this opportunity to speak at todays esteemed event.
 
 In my address today, I will not elaborate too much on facts and figures – I leave this to the expertise of the fellow presenters today, who – as I noticed on the programme – have all prepared insightful and valuable contributions. 
