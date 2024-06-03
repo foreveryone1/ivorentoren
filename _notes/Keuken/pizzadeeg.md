@@ -15,7 +15,8 @@ Vanwege de lagere temperatuur moet je iets langer bakken in de oven (10 à 15 mi
 
 In het excelvakje kan je de getallen in de gele vakken aanpassen naar uw pizzabehoeftes.
 
- <iframe width="100%" height="300" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/b2c23f23ab1beb46/UQNG6xurIz_CIICykQ0AAAAAAHvsr6lKcOGavuU?wdAllowInteractivity=False&AllowTyping=True&ActiveCell='Sheet1'!A1&Item='Sheet1'!A1%3AG8&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/b2c23f23ab1beb46/UQNG6xurIz_CIICykQ0AAAAAAHvsr6lKcOGavuU?wdAllowInteractivity=False&AllowTyping=True&ActiveCell='Sheet1'!A1&Item='Sheet1'!A1%3AG8&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+
 
 ## Overnacht
 Kies een voldoende grote kom. Deeg dat fermenteert verdubbelt in volume.
